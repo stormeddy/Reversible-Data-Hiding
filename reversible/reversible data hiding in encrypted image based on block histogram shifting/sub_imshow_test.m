@@ -1,0 +1,9 @@
+figure
+subplot(2,2,1)
+imshow(I);
+subplot(2,2,2)
+imshow(EI);
+subplot(2,2,3)
+imshow(AEI);
+subplot(2,2,4)
+imshow(RI);

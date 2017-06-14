@@ -1,0 +1,14 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                         %
+%                       Disclamer                         %
+%                                                         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+This software is given as it is, for free.
+You can use it as you prefere, in any way and for any purpose,
+private or commercial.
+
+I don't consider myself responsable for any problem and/or damage
+which can result from its usage.
+
+Use it as your OWN RISK!
